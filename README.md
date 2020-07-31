@@ -53,17 +53,3 @@
 - Firmware v0.0 to v0.8
 
 ***
-
-### **Pendientes**
-
-- CORREGIR  - no se necesita el led on, la pantalla ya tiene un led
-- CORREGIR  - no hay botón de reset
-- CORREGIR  - quitar botón SW de encendido
-- CORREGIR  - agregar canon XLR de 5 pin
-- CORREGIR  - base de teclado, darle más soporte
-- CORREGIR  - eliminar la fuente de alimentacion regulada, arduino ya tiene una fuente regulada
-- CORREGIR  - quitar de los conectores USB y power del arduino, las conexiones de arriba, no permiten que cierre bien el arduino
-- CORREGIR  - pasar los conectores a la parte de abajo, pesa mucho la placa
-- CORREGIR  - agregar capacitores cerámicos a los botones para el rebote
-
-***
