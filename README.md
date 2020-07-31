@@ -1,8 +1,8 @@
-# ** Hardware v0.0 **
+# **Arduino DMX-512 Tester and Controller**
 
-![frente](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hardware%20v00.JPG)
+## **Hardware 20x4 - v0.0**
 
-## ** [Notas sobre la versión...](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller/blob/master/Hardware/Documentacion/notas%20sobre%20la%20version.txt) **
+![frente](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hardware%20v00.JPG)
 
 - LCD de 4x20
 - Alimentación desde USB o directamente al Arduino
