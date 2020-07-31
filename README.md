@@ -29,19 +29,19 @@
 
 ***
 
-## ** Esquematico **
+### **Esquematico**
 
 ![Esquematico](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%20Esquematico.PNG)
 
 ***
 
-## ** PCB **
+### **PCB**
 
 ![PCB](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%20PCB.PNG)
 
 ***
 
-## ** Simulación **
+### **Simulación**
 
 ![Simulador](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%20Simulador.PNG)
 
