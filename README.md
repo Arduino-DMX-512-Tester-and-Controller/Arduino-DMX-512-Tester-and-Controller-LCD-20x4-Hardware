@@ -64,3 +64,5 @@
 - CORREGIR  - quitar de los conectores USB y power del arduino, las conexiones de arriba, no permiten que cierre bien el arduino
 - CORREGIR  - pasar los conectores a la parte de abajo, pesa mucho la placa
 - CORREGIR  - agregar capacitores cerámicos a los botones para el rebote
+
+***
