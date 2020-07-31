@@ -4,8 +4,6 @@
 
 ***
 
-![frente](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hardware%20v00.JPG)
-
 - LCD de 4x20
 - Alimentación desde USB o directamente al Arduino
 - Teclado de navegación entre las opciones
