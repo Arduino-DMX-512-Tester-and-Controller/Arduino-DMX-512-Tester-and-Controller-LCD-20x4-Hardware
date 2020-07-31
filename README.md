@@ -1,10 +1,8 @@
 # **Arduino DMX-512 Tester and Controller**
 
-## **Hardware - LCD 20x4 - v0.0**
+## **Hardware - LCD 20x4 - v0.1**
 
 ***
-
-![frente](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hardware%20v00.JPG)
 
 - LCD de 4x20
 - Alimentación desde USB o directamente al Arduino
@@ -17,6 +15,23 @@
 - Esquemático y PCB en Proteus v8.0 SP1
 - [Arduino Mega 2560 Rev-3](http://www.arduino.cc/en/Main/ArduinoBoardMega2560)
 - Aclarar que para este proyecto se utilizó un Arduino Mega hecho en China
+
+***
+
+- CORREGIDO - no se necesita el led on, la pantalla ya tiene un led (el led ON se retira, los leds de la salida del dmx indican que está activo)
+- CORREGIDO - no hay botón de reset (no se requiere el botón de reset, hay un switch de on off)
+- CORREGIDO - quitar botón SW de encendido (se cambió por un switch deslizable)
+- CORREGIDO - base de teclado, darle más soporte (no requiere más soporte)
+- CORREGIDO - eliminar la fuente de alimentacion regulada (se eliminó la fuente regulada)
+- CORREGIDO - quitar de los conectores USB y power del arduino, las conexiones de arriba, no permiten que cierre bien el arduino (se reubicaron los componentes)
+- CORREGIDO - pasar los conectores a la parte de abajo, pesa mucho la placa (los conectores se pasaron a la parte de abajo)
+- CORREGIDO - agregar capacitores cerámicos a los botones para el rebote (agregados, cerámicos 104, mejoro la estabilidad en la lectura)
+- CORREGIDO - se cambió el conector XLR de 3 pin por conector amphenol de 3 y 5 pin, son más resistentes
+- CORREGIDO - los leds de la salida del DMX se cambiaron a la parte de abajo y viendo hacia abajo, molestaba a la vista
+- CORREGIDO - el pcb se redujo
+- AGREGADO  - etapa de potencia para controlar el back light del LCD
+- AGREGADO  - conexión para baterías
+- AGREGADO  - header para completar la conexión del arduino, estaba incompleta
 
 ***
 
