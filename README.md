@@ -2,6 +2,8 @@
 
 ## **Hardware 20x4 - v0.0**
 
+***
+
 ![frente](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hardware%20v00.JPG)
 
 - LCD de 4x20
@@ -18,29 +20,29 @@
 
 ***
 
-![Atras](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%201.JPG)
-![Atras](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%202.JPG)
-![frente](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%203.JPG)
-![Teclado](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%204.JPG)
-![lado](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%205.JPG)
-![Arduino](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%206.JPG)
+![Atras](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%201.JPG)
+![Atras](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%202.JPG)
+![frente](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%203.JPG)
+![Teclado](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%204.JPG)
+![lado](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%205.JPG)
+![Arduino](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%206.JPG)
 
 ***
 
 ## ** Esquematico **
 
-![Esquematico](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%20Esquematico.PNG)
+![Esquematico](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%20Esquematico.PNG)
 
 ***
 
 ## ** PCB **
 
-![PCB](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%20PCB.PNG)
+![PCB](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%20PCB.PNG)
 
 ***
 
 ## ** Simulación **
 
-![Simulador](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/dd59f229a0ae5062e991717e0b6d4e8263fc11ca/Hardware/v0.0/media/Hard%20v00%20-%20Simulador.PNG)
+![Simulador](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-20x4-Hardware/master/Media/Hard%20v00%20-%20Simulador.PNG)
 
 ***
