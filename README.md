@@ -41,6 +41,11 @@
 
 ***
 
+### **Simulador**
+
+- Hardware v0.0 to v0.2
+- Firmware v0.0 to v0.8
+
 ### **Esquematico**
 
 ![Esquematico](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/media/Esquematico.png)
