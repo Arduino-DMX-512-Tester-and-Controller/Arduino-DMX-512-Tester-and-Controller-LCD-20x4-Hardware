@@ -4,7 +4,7 @@
 
 
 [![version](https://img.shields.io/badge/version-0.7-brightgreen.svg)](CHANGELOG.md)
-[![license](https://img.shields.io/badge/licence-OSHW%20v1.0-blue)](LICENSE)
+[![license](https://img.shields.io/badge/licence-OSHW%20v1.0-blue)](https://github.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/blob/master/Licence.md)
 /Licence.md 
 [![codacy](https://api.codacy.com/project/badge/Grade/c9496e25cf07434cba786b462cb15f49)](https://www.codacy.com/app/xoseperez/espurna/dashboard)
 <br />
