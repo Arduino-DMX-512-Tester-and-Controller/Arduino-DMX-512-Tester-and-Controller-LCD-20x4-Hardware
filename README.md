@@ -35,6 +35,7 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 
 ***
 
+- AGREGADO  - backlight a pin 13 para efecto en el lcd mientras se actualiza
 - AGREGADO  - control de contraste desde software
 - AGREGADO  - control de back light desde software
 
