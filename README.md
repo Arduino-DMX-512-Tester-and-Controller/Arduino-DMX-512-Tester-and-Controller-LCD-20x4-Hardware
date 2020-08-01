@@ -4,8 +4,8 @@
 
 
 [![version](https://img.shields.io/badge/version-0.7-brightgreen.svg)](CHANGELOG.md)
-[![license](https://img.shields.io/github/license/xoseperez/espurna.svg)](LICENSE)
-[![travis](https://travis-ci.org/xoseperez/espurna.svg?branch=dev)](https://travis-ci.org/xoseperez/espurna)
+[![license](https://img.shields.io/badge/licence-OSHW%20v1.0-blue)](LICENSE)
+/Licence.md 
 [![codacy](https://api.codacy.com/project/badge/Grade/c9496e25cf07434cba786b462cb15f49)](https://www.codacy.com/app/xoseperez/espurna/dashboard)
 <br />
 [![latest master build](https://img.shields.io/github/release/xoseperez/espurna/all.svg?label=latest%20master%20build)](https://github.com/xoseperez/espurna/releases/latest)
