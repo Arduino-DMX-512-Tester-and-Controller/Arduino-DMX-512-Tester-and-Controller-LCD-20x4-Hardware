@@ -73,27 +73,28 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 
 ***
 
-## ** Licenciamiento: **
+## **Licenciamiento:**
 
 ![](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/oshw.png)
+
 [Open Source Hardware (OSHW) v1.0](https://github.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/blob/master/Licence.md)
 
 ***
 
-## ** Autor: **
+## **Autor:**
 
 - Daniel Becerril
 - Copyright (C) 2015
 
-[![Email](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/email%2050x50.jpg)](mailto:daniel3514@gmail.com)
-[![Facebook](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/Facebook%2050x50.png)](https://www.facebook.com/daniel.3514)
-[![Facebook](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/Facebook%20Pages%2050x50.jpg)](https://www.facebook.com/ArduinoDMX512TesterController)
-[![Twitter](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/Twitter%2050x50.png)](https://twitter.com/daniel3514)
-[![Instructables](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/Instructables%2050x50.jpg)](http://www.instructables.com/id/Arduino-DMX-512-Tester-and-Controller/)
-[![Hack a Day](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/hackaday%2050x50.jpg)](https://hackaday.io/project/5342-arduino-dmx-512-tester-and-controller)
-[![Youtube](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/Youtube%2050x50.png)](https://www.youtube.com/watch?v=TxBHMpAWDSY)
-[![Tech Inside](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/techinside%2045x45.png)](https://techinsideblog.wordpress.com/)
-[![GitHub](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/github%2050x50.png)](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller)
-[![Hackster](https://bytebucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/raw/a3df5faadcc6d080dbbd621235ba4d69b8da64b7/Social/logos/hackster%2050x50.png)](https://www.hackster.io/daniel3514/arduino-dmx-512-tester-controller-977c89)
+[![Email](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/email%2050x50.jpg)](mailto:daniel3514@gmail.com)
+[![Facebook](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/Facebook%2050x50.png)](https://www.facebook.com/daniel.3514)
+[![Facebook](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/Facebook%20Pages%2050x50.jpg)](https://www.facebook.com/ArduinoDMX512TesterController)
+[![Twitter](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/Twitter%2050x50.png)](https://twitter.com/daniel3514)
+[![Instructables](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/Instructables%2050x50.jpg)](http://www.instructables.com/id/Arduino-DMX-512-Tester-and-Controller/)
+[![Hack a Day](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/hackaday%2050x50.jpg)](https://hackaday.io/project/5342-arduino-dmx-512-tester-and-controller)
+[![Youtube](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/Youtube%2050x50.png)](https://www.youtube.com/watch?v=TxBHMpAWDSY)
+[![Tech Inside](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/techinside%2045x45.png)](https://techinsideblog.wordpress.com/)
+[![GitHub](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/github%2050x50.png)](https://github.com/Arduino-DMX-512-Tester-and-Controller)
+[![Hackster](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/Social/Logos/hackster%2050x50.png)](https://www.hackster.io/daniel3514/arduino-dmx-512-tester-controller-977c89)
 
 ***
