@@ -1,6 +1,6 @@
 # **Arduino DMX-512 Tester and Controller**
 
-## **Hardware - LCD 20x4 - v0.5**
+## **Hardware - LCD 20x4 - v0.6**
 
 ***
 
@@ -17,28 +17,53 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 - [Librería Arduino cuatro universos DMX v0.3 - Deskontrol](http://www.deskontrol.net/blog/libreria-arduino-cuatro-universos-dmx/)
 - [Libreria LCD v1.2.1 - Francisco Malpartida](https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home)
 - [Simulación en Proteus de Arduino [Microcontrolandos](http://microcontrolandos.blogspot.mx/2012/12/arduino-componentes-para-o-proteus.html)
+- [Encoder](http://www.robodosis.net/2013/01/encoder-rotativo-mecanico-con-pic16f877a_2.html)
 
 ***
 
 - Esquemático y PCB en Proteus v8.0 SP1
 - LCD de 4x20 con backlight y contraste controlado por software
 - Alimentación desde USB, baterías o fuente de alimentación externa
-- Teclado de navegación entre las opciones
+- Encoder para navegacion entre menu
 - Teclado numérico 4x4
-- Potenciómetro para control análogo
 - Interruptor de on/off
 - Salida DMX desde bornera, XLR de 3 pin y XLR de 5 pin
 - Leds de estado de salida DMX
-- Simulación en Proteus v7.7 SP2
+- Simulación en Proteus v7.7 SP2 y v8.0 SP1
 - Esquemático y PCB en Proteus v8.0 SP1
 - Aclarar que para este proyecto se utilizó un Arduino Mega hecho en China
+- Regulador para fuente externa, el arduino se calienta
+- Bornera para salida de fuente regulada de 5V para uso general
+- Led para salida de fuente regulada
+- Botón de reset
+- Opto acoplado a salida de dmx
+- Convertidor de DC/DC para aislamiento de DMX
+- SW de palanca para invertir polaridad de salida de DMX
+- Jumper default eeprom en pin 9
+- Jriver para luz led como lampara
 
 ***
 
-- CORREGIDO - etapa de potencia para contraste
-- AGREGADO 	- Luz para el teclado y cursores
-- AGREGADO  - Etapa de potencia para luz de teclado
-- AGREGADO  - Contraste por PWM basado en http://www.pcbheaven.com/circuitpages/PWM_LCD_Contrast_Control/
+- AGREGADO   - regulador para fuente externa, el arduino se calienta
+- AGREGADO   - bornera para salida de fuente regulada de 5V para uso general
+- AGREGADO   - led para salida de fuente regulada
+- AGREGADO   - botón de reset
+- AGREGADO   - opto acoplado a salida de dmx
+- AGREGADO   - convertidor de DC/DC para aislamiento de DMX
+- AGREGADO   - SW de palanca para invertir polaridad de salida de DMX
+- AGREGADO   - Al encoder capacitores para rebote
+- AGREGADO   - jumper default eeprom en pin 9
+- AGREGADO   - driver para luz led como lampara
+- AGREGADO   - capacitores al teclado para rebote
+- AGREGADO   - logo de Open Hardware
+- CORREGIDO  - se eliminan los cursores, los remplaza el encoder
+- CORREGIDO  - se saco el encoder de la placa original y se solda directo a la placa
+- CORREGIDO  - se elimina el data I/O
+- CORREGIGO  - se quito la entrada al Arduino desde el MAX485, causa problemas al cargar el programa
+- CORREGIDO  - Las bases de los CI se cambiaron a maquinadas
+- AGREGADO   - Optoacoplamiento basado en http://www.mathertel.de/Arduino/DMXShield.aspx
+- CHECAR     - en firmware que el encoder DT y CLK que sean pullup
+- CORREGIDO  - potenciómetro por encoder
 
 ***
 
@@ -47,14 +72,14 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 - Simulacion en Proteus v7.7 SP2
 - Librerias:
   - Arduino: https://geekelectronica.com/simular-arduino-con-proteus/
-- Firmware v0.9 a v1.3
+- Firmware v1.7
 
 ***
 
 ### **Simulador**
 
-- Hardware v0.3 to v0.5
-- Firmware v0.9 to v1.5
+- Hardware v0.6 to v0.8
+- Firmware v1.6 to v2.1
 
 ***
 
@@ -73,7 +98,6 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 ### **Simulador**
 
 ![Simulador](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/media/Simulador.PNG)
-![Simulador](https://raw.githubusercontent.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/master/media/Simulador%20exe.PNG)
 
 ***
 
