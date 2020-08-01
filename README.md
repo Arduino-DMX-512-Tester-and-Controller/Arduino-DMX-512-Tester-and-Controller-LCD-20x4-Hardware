@@ -2,7 +2,7 @@
 
 ## **Hardware - LCD 20x4**
 
-## **v0.6**
+## **v0.7**
 
 ***
 
@@ -40,29 +40,32 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 - SW de palanca para invertir polaridad de salida de DMX
 - Jumper default eeprom en pin 9
 - Driver para luz led como lampara
+- SW para Key Light
+- SW para Ext Light
+- Espaciadores para fijación
+- Leyendas de conexión
+- Fuente externa, el arduino se calentaba
 
 ***
 
-- AGREGADO   - regulador para fuente externa, el arduino se calienta
-- AGREGADO   - bornera para salida de fuente regulada de 5V para uso general
-- AGREGADO   - led para salida de fuente regulada
-- AGREGADO   - botón de reset
-- AGREGADO   - opto acoplado a salida de dmx
-- AGREGADO   - convertidor de DC/DC para aislamiento de DMX
-- AGREGADO   - SW de palanca para invertir polaridad de salida de DMX
-- AGREGADO   - Al encoder capacitores para rebote
-- AGREGADO   - jumper default eeprom en pin 9
-- AGREGADO   - driver para luz led como lampara
-- AGREGADO   - capacitores al teclado para rebote
-- AGREGADO   - logo de Open Hardware
-- CORREGIDO  - se eliminan los cursores, los remplaza el encoder
-- CORREGIDO  - se saco el encoder de la placa original y se solda directo a la placa
-- CORREGIDO  - se elimina el data I/O
-- CORREGIGO  - se quito la entrada al Arduino desde el MAX485, causa problemas al cargar el programa
-- CORREGIDO  - Las bases de los CI se cambiaron a maquinadas
-- AGREGADO   - Optoacoplamiento basado en http://www.mathertel.de/Arduino/DMXShield.aspx
-- CHECAR     - en firmware que el encoder DT y CLK que sean pullup
-- CORREGIDO  - potenciómetro por encoder
+- AGREGADO   - SW para Key Light
+- AGREGADO   - SW para Ext Light
+- AGREGADO   - Espaciadores para fijación
+- AGREGADO   - Leyendas de conexión
+- AGREGADO   - Fuente externa, el arduino se calentaba
+- CORREGIR   - marcar en board edge los agujeros de los XLR
+- CORREGIR   - los XLR quedan chuecos
+- CORREGIR   - Encoder, separar los agujeros están muy juntos
+- CORREGIR   - separar bornera de key light de lcd, esta muy junta
+- CORREGIR   - pads de puentes muy chicos
+- CORREGIR   - pads de botón de reset muy chicos
+- CORREGIR   - subir logo de Open Hardware
+- CORREGIR   - texto de about, hacerlo mas grueso
+- CORREGIR   - bornera de voltaje lateral metera mas
+- CORREGIR   - acostar C7
+- CORREGIR   - tornillos de LCD no coinciden
+- CORREGIR   - jumper de reset, poner pullup, el pin no tiene interno
+- CORREGIR   - posición de SW esta al revés, cambiar leyenda en pcb
 
 ***
 
