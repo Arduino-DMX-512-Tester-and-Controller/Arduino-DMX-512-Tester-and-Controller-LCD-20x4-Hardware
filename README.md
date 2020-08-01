@@ -35,7 +35,6 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 
 ***
 
-- CORREGIDO - potenciómetro por encoder
 - CORREGIDO - etapa de potencia para contraste
 - AGREGADO 	- Luz para el teclado y cursores
 - AGREGADO  - Etapa de potencia para luz de teclado
