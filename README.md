@@ -37,6 +37,9 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 
 - AGREGADO  - interconectados los pines del arduino de vcc y gnd faltantes
 - AGREGADO  - la leyenda open hardware a bottom
+- CORREGIDO - recorrida la bornera de la conexión dmx hacia el arduino, queda más centrada
+- CORREGIDO - se hizo más chico el puente que estaba dentro del área del arduino
+- CORREGIDO - los datos de la salida están al revés
 
 ***
 
