@@ -6,20 +6,6 @@
 
 ***
 
-## ** [vx.x - Beta - Firm vx.x](https://bitbucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/src/03ac9d7d01c0ac0785e2351d8d0e76eea3e9af66/Hardware/vx.x%20-%20touch/media/?at=master) **
-
-- AGREGADO  - Adafruit HXD8357D - 3.5" TFT 320x480 + Touchscreen Breakout Board w/MicroSD Socket https://learn.adafruit.com/adafruit-3-5-color-320x480-tft-touchscreen-breakout/overview
-- AGREGADO  - Adafruit STMPE610 - Resistive Touch Screen Controller https://www.adafruit.com/products/1571
-			
-***
-
-## ** [v1.0 - Beta - Firm v3.0 - v3-x]() **
-
-- AGREGADO   - OLED SSD1309
-- AGREGADO   - enclosure
-
-***
-
 ## ** [v0.8 - Beta - Final Support - Firm v1.8 - v2.1](https://bitbucket.org/daniel3514/0066-arduino-dmx-512-tester-controller/src/03ac9d7d01c0ac0785e2351d8d0e76eea3e9af66/Hardware/v0.8/?at=master) **
 
 - AGREGADO   - los bordes para la union del acrílico
