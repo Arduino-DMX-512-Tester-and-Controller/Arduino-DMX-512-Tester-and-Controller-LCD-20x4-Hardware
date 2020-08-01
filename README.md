@@ -1,6 +1,6 @@
 # **Arduino DMX-512 Tester and Controller**
 
-## **Hardware - LCD 20x4 - v0.3**
+## **Hardware - LCD 20x4 - v0.4**
 
 ***
 
@@ -35,9 +35,8 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 
 ***
 
-- AGREGADO  - backlight a pin 13 para efecto en el lcd mientras se actualiza
-- AGREGADO  - control de contraste desde software
-- AGREGADO  - control de back light desde software
+- AGREGADO  - interconectados los pines del arduino de vcc y gnd faltantes
+- AGREGADO  - la leyenda open hardware a bottom
 
 ***
 
