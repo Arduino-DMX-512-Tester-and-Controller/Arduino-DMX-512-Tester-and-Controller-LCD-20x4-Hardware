@@ -3,7 +3,7 @@
 ## **Hardware - LCD 20x4**
 
 
-[![version](https://img.shields.io/badge/version-0.7-brightgreen.svg)](CHANGELOG.md)
+[![version](https://img.shields.io/badge/version-0.8-release-brightgreen.svg)](CHANGELOG.md)
 [![license](https://img.shields.io/badge/licence-OSHW%20v1.0-blue)](https://github.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/blob/master/LICENCE.md)
 
 ![GitHub issues](https://img.shields.io/github/issues/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware)
