@@ -3,7 +3,7 @@
 ## **Hardware - LCD 20x4**
 
 
-[![version](https://img.shields.io/badge/version-0.8-release-brightgreen.svg)](CHANGELOG.md)
+[![version](https://img.shields.io/badge/version-0.8_release-brightgreen.svg)](CHANGELOG.md)
 [![license](https://img.shields.io/badge/licence-OSHW%20v1.0-blue)](https://github.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware/blob/master/LICENCE.md)
 
 ![GitHub issues](https://img.shields.io/github/issues/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware)
@@ -56,24 +56,12 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 
 ### ![**Changelog**](CHANGELOG.md)
 
-- AGREGADO   - SW para Key Light
-- AGREGADO   - SW para Ext Light
-- AGREGADO   - Espaciadores para fijación
-- AGREGADO   - Leyendas de conexión
-- AGREGADO   - Fuente externa, el arduino se calentaba
-- CORREGIR   - marcar en board edge los agujeros de los XLR
-- CORREGIR   - los XLR quedan chuecos
-- CORREGIR   - Encoder, separar los agujeros están muy juntos
-- CORREGIR   - separar bornera de key light de lcd, esta muy junta
-- CORREGIR   - pads de puentes muy chicos
-- CORREGIR   - pads de botón de reset muy chicos
-- CORREGIR   - subir logo de Open Hardware
-- CORREGIR   - texto de about, hacerlo mas grueso
-- CORREGIR   - bornera de voltaje lateral metera mas
-- CORREGIR   - acostar C7
-- CORREGIR   - tornillos de LCD no coinciden
-- CORREGIR   - jumper de reset, poner pullup, el pin no tiene interno
-- CORREGIR   - posición de SW esta al revés, cambiar leyenda en pcb
+- AGREGADO   - los bordes para la union del acrílico
+- ELIMINADO  - base de teclado, queda sobre el acrílico
+- AGREGADO   - jack de DC para alimentacion
+- AGREGADO   - tornillo entre los conectores para agregar soporte
+- CORREGIDO  - bornera de voltaje lateral metera mas
+- CORREGIDO  - posición de SW esta al revés, cambiar leyenda en pcb
 
 ***
 
@@ -82,14 +70,14 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 - Simulacion en Proteus v7.7 SP2
 - Librerias:
   - Arduino: https://geekelectronica.com/simular-arduino-con-proteus/
-- Firmware v1.7
+- Firmware v1.8 a v2.2
 
 ***
 
 ### **Simulador**
 
 - Hardware v0.6 to v0.8
-- Firmware v1.6 to v2.1
+- Firmware v1.6 to v2.2
 
 ***
 
