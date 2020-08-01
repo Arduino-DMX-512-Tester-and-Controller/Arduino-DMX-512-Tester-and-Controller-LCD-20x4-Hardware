@@ -54,6 +54,8 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 
 ***
 
+### ![**Changelog**](CHANGELOG.md)
+
 - AGREGADO   - SW para Key Light
 - AGREGADO   - SW para Ext Light
 - AGREGADO   - Espaciadores para fijación
