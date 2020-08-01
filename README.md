@@ -1,6 +1,6 @@
 # **Arduino DMX-512 Tester and Controller**
 
-## **Hardware - LCD 20x4 - v0.1**
+## **Hardware - LCD 20x4 - v0.2**
 
 ***
 
