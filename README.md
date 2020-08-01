@@ -65,7 +65,7 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 
 ***
 
-### **Firmware**
+### ![**Firmware**](https://github.com/Arduino-DMX-512-Tester-and-Controller/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Firmware)
 
 - Simulacion en Proteus v7.7 SP2
 - Librerias:
