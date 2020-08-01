@@ -37,7 +37,7 @@ Herramienta Open Hardware, para pruebas y control de iluminación de espectácul
 - Convertidor de DC/DC para aislamiento de DMX
 - SW de palanca para invertir polaridad de salida de DMX
 - Jumper default eeprom en pin 9
-- Jriver para luz led como lampara
+- Driver para luz led como lampara
 
 ***
 
