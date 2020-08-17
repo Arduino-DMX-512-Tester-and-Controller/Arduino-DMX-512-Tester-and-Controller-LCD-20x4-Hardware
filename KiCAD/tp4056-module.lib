@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# TP4056-Module
+#
+DEF TP4056-Module U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "TP4056-Module" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -350 -100 300 -600 0 1 0 f
+X Vin+ 1 -450 -200 100 R 50 50 1 1 B
+X Vin- 2 -450 -500 100 R 50 50 1 1 B
+X Out- 3 400 -500 100 L 50 50 1 1 B
+X B- 4 400 -400 100 L 50 50 1 1 B
+X B+ 5 400 -300 100 L 50 50 1 1 B
+X Out+ 6 400 -200 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

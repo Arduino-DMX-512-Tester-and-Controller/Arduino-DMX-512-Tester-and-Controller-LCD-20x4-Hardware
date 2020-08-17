@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TP4056)(type Legacy)(uri /home/syhs/Escritorio/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware-master/KiCAD/tp4056-module.lib)(options "")(descr ""))
+)

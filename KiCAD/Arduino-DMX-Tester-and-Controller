@@ -1,0 +1,65 @@
+Source,/home/syhs/Escritorio/Arduino-DMX-512-Tester-and-Controller-LCD-20x4-Hardware-master/KiCAD/Arduino-DMX-Tester-and-Controller.sch
+Kicad Rev,Eeschema 5.1.5+dfsg1-2build2
+Generated Date,dom 16 ago 2020 15:54:11
+
+Title,Arduino DMX-512 Tester and Controller
+Company,@daniel3514
+Revision,v0.9
+Date Issue,2020-08-16
+
+Reference,Value,Spice_Netlist_Enabled,Spice_Primitive,Library,Library Ref
+J3,Arduino_PWM_2,Connector,Conn_01x08_Female
+J2,Arduino_PWM_1,Connector,Conn_01x08_Female
+J1,Arduino_Power,Connector,Conn_01x08_Female
+J4,Arduino_Digital,Connector,Conn_01x08_Female
+J6,Arduino Digital,Connector,Conn_01x02_Female
+J7,Arduino Digital,Connector,Conn_01x02_Female
+U4,NHD-0420H1Z,Display_Character,NHD-0420H1Z
+J5,Arduino Digital,Connector,Conn_01x06_Female
+Q2,2N2222,Transistor_BJT,2N2219
+R5,1K,Device,R_Small_US
+Q3,BC548,Transistor_BJT,BC548
+R6,22K,Device,R_Small_US
+R8,22K,Device,R_Small_US
+R9,680,Device,R_Small_US
+C10,CP,Device,CP
+J15,Light,Connector,Screw_Terminal_01x02
+Q4,2N2222,Transistor_BJT,2N2219
+R7,1K,Device,R_Small_US
+J14,Key Light,Connector,Screw_Terminal_01x02
+Q1,2N2222,Transistor_BJT,2N2219
+R4,1K,Device,R_Small_US
+SW1,Reset,Switch,SW_DPST_x2
+J10,Keyboard,Connector,Conn_01x08_Female
+C5,1nF,Device,C_Small
+C4,1nF,Device,C_Small
+C3,1nF,Device,C_Small
+C2,1nF,Device,C_Small
+JP1,EEPROM Default,Device,Jumper
+SW3,Encoder,Device,Rotary_Encoder_Switch
+C9,1nF,Device,C_Small
+C8,1nF,Device,C_Small
+C7,1nF,Device,C_Small
+J9,Jack-DC,Connector,Jack-DC
+D1,IN4001,Device,D
+C1,100uF/63V,Device,CP_Small
+U2,LM2575-5.0BT,Regulator_Switching,LM2575-5.0BT
+L1,330uH,Device,L
+D6,1N5819,Device,D_Schottky
+C6,330uF/16V,Device,CP_Small
+U3,TP4056-Module,TP4056,TP4056-Module
+J13,Battery,Connector,Screw_Terminal_01x02
+SW4,On,Switch,SW_SPDT
+U1,MAX485E,Interface_UART,MAX485E
+J8,XLR3,Connector,XLR3
+J11,XLR5,Connector,XLR5
+J12,DMX Out,Connector,Screw_Terminal_01x03
+SW2,Polarity,Switch,SW_Push_DPDT
+D2,LED,Device,LED
+D3,LED,Device,LED
+R1,330,Device,R_Small_US
+R3,330,Device,R_Small_US
+R2,120,Device,R_Small_US
+D5,1N4001,Y,V,Simulation_SPICE,DIODE
+D4,1N4001,Y,V,Simulation_SPICE,DIODE
+C11,1nF,Device,C_Small
